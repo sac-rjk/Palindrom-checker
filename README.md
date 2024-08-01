@@ -5,7 +5,7 @@ This project is a simple web application built to check if a given input is a pa
 
 ## Live  Demo
 
-You can check out the live demo of this project[https://effervescent-conkies-ee42e9.netlify.app/]
+You can check out the live demo of this project[https://sac-rjk.github.io/Palindrom-checker/]
 
 
 ## project overview
